@@ -1,0 +1,20 @@
+Filled container. 
+List contents 8 elements.
+0: It is Fracture: first = 4, second = 4
+1: It is Complex: first = 1.23, second = 3.21
+2: It is Fracture: first = 8, second = 4
+3: It is Fracture: first = 6666666, second = 1
+4: It is Fracture: first = 4, second = 8
+5: It is Fracture: first = 123, second = 32
+6: It is Fracture: first = 3, second = 2
+7: It is Fracture: first = 8, second = 9
+0: Parameter = 1
+1: Parameter = 3.43759
+2: Parameter = 2
+3: Parameter = 6.66667e+06
+4: Parameter = 0.5
+5: Parameter = 3.84375
+6: Parameter = 1.5
+7: Parameter = 0.888889
+Empty container: 
+List contents 0 elements.

@@ -1,0 +1,284 @@
+Filled container. 
+List contents 11 elements.
+0: It is Fracture: first = 4, second = 4
+1: It is Complex: first = 1.23, second = 3.21
+2: It is Fracture: first = 8, second = 4
+3: It is Fracture: first = 6666666, second = 1
+4: It is Fracture: first = 4, second = 8
+5: It is Polar: angle = 1.221, distance = 1
+6: It is Fracture: first = 123, second = 32
+7: It is Fracture: first = 3, second = 2
+8: It is Complex: first = 5.44, second = 7.167
+9: It is Fracture: first = 8, second = 9
+10: It is Polar: angle = 1.3123, distance = 22
+MultiMethod: 
+
+Start Multimethod out
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 4
+It is Fracture: first = 4, second = 4
+
+This pair is Fractured with Complex
+It is Fracture: first = 4, second = 4
+It is Complex: first = 1.23, second = 3.21
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 4
+It is Fracture: first = 8, second = 4
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 4
+It is Fracture: first = 6666666, second = 1
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 4
+It is Fracture: first = 4, second = 8
+
+This pair is Fractured with Polar
+It is Fracture: first = 4, second = 4
+It is Polar: angle = 1.221, distance = 1
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 4
+It is Fracture: first = 123, second = 32
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 4
+It is Fracture: first = 3, second = 2
+
+This pair is Fractured with Complex
+It is Fracture: first = 4, second = 4
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 4
+It is Fracture: first = 8, second = 9
+
+This pair is Fractured with Polar
+It is Fracture: first = 4, second = 4
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Complex with Complex
+It is Complex: first = 1.23, second = 3.21
+It is Complex: first = 1.23, second = 3.21
+
+This pair is Complex with Fractured
+It is Complex: first = 1.23, second = 3.21
+It is Fracture: first = 8, second = 4
+
+This pair is Complex with Fractured
+It is Complex: first = 1.23, second = 3.21
+It is Fracture: first = 6666666, second = 1
+
+This pair is Complex with Fractured
+It is Complex: first = 1.23, second = 3.21
+It is Fracture: first = 4, second = 8
+
+This pair is Complex with Polar
+It is Complex: first = 1.23, second = 3.21
+It is Polar: angle = 1.221, distance = 1
+
+This pair is Complex with Fractured
+It is Complex: first = 1.23, second = 3.21
+It is Fracture: first = 123, second = 32
+
+This pair is Complex with Fractured
+It is Complex: first = 1.23, second = 3.21
+It is Fracture: first = 3, second = 2
+
+This pair is Complex with Complex
+It is Complex: first = 1.23, second = 3.21
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Complex with Fractured
+It is Complex: first = 1.23, second = 3.21
+It is Fracture: first = 8, second = 9
+
+This pair is Complex with Polar
+It is Complex: first = 1.23, second = 3.21
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Fractured with Fractured
+It is Fracture: first = 8, second = 4
+It is Fracture: first = 8, second = 4
+
+This pair is Fractured with Fractured
+It is Fracture: first = 8, second = 4
+It is Fracture: first = 6666666, second = 1
+
+This pair is Fractured with Fractured
+It is Fracture: first = 8, second = 4
+It is Fracture: first = 4, second = 8
+
+This pair is Fractured with Polar
+It is Fracture: first = 8, second = 4
+It is Polar: angle = 1.221, distance = 1
+
+This pair is Fractured with Fractured
+It is Fracture: first = 8, second = 4
+It is Fracture: first = 123, second = 32
+
+This pair is Fractured with Fractured
+It is Fracture: first = 8, second = 4
+It is Fracture: first = 3, second = 2
+
+This pair is Fractured with Complex
+It is Fracture: first = 8, second = 4
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Fractured with Fractured
+It is Fracture: first = 8, second = 4
+It is Fracture: first = 8, second = 9
+
+This pair is Fractured with Polar
+It is Fracture: first = 8, second = 4
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Fractured with Fractured
+It is Fracture: first = 6666666, second = 1
+It is Fracture: first = 6666666, second = 1
+
+This pair is Fractured with Fractured
+It is Fracture: first = 6666666, second = 1
+It is Fracture: first = 4, second = 8
+
+This pair is Fractured with Polar
+It is Fracture: first = 6666666, second = 1
+It is Polar: angle = 1.221, distance = 1
+
+This pair is Fractured with Fractured
+It is Fracture: first = 6666666, second = 1
+It is Fracture: first = 123, second = 32
+
+This pair is Fractured with Fractured
+It is Fracture: first = 6666666, second = 1
+It is Fracture: first = 3, second = 2
+
+This pair is Fractured with Complex
+It is Fracture: first = 6666666, second = 1
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Fractured with Fractured
+It is Fracture: first = 6666666, second = 1
+It is Fracture: first = 8, second = 9
+
+This pair is Fractured with Polar
+It is Fracture: first = 6666666, second = 1
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 8
+It is Fracture: first = 4, second = 8
+
+This pair is Fractured with Polar
+It is Fracture: first = 4, second = 8
+It is Polar: angle = 1.221, distance = 1
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 8
+It is Fracture: first = 123, second = 32
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 8
+It is Fracture: first = 3, second = 2
+
+This pair is Fractured with Complex
+It is Fracture: first = 4, second = 8
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Fractured with Fractured
+It is Fracture: first = 4, second = 8
+It is Fracture: first = 8, second = 9
+
+This pair is Fractured with Polar
+It is Fracture: first = 4, second = 8
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Polar with Polar
+It is Polar: angle = 1.221, distance = 1
+It is Polar: angle = 1.221, distance = 1
+
+This pair is Polar with Fractured
+It is Polar: angle = 1.221, distance = 1
+It is Fracture: first = 123, second = 32
+
+This pair is Polar with Fractured
+It is Polar: angle = 1.221, distance = 1
+It is Fracture: first = 3, second = 2
+
+This pair is Polar with Complex
+It is Polar: angle = 1.221, distance = 1
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Polar with Fractured
+It is Polar: angle = 1.221, distance = 1
+It is Fracture: first = 8, second = 9
+
+This pair is Polar with Polar
+It is Polar: angle = 1.221, distance = 1
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Fractured with Fractured
+It is Fracture: first = 123, second = 32
+It is Fracture: first = 123, second = 32
+
+This pair is Fractured with Fractured
+It is Fracture: first = 123, second = 32
+It is Fracture: first = 3, second = 2
+
+This pair is Fractured with Complex
+It is Fracture: first = 123, second = 32
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Fractured with Fractured
+It is Fracture: first = 123, second = 32
+It is Fracture: first = 8, second = 9
+
+This pair is Fractured with Polar
+It is Fracture: first = 123, second = 32
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Fractured with Fractured
+It is Fracture: first = 3, second = 2
+It is Fracture: first = 3, second = 2
+
+This pair is Fractured with Complex
+It is Fracture: first = 3, second = 2
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Fractured with Fractured
+It is Fracture: first = 3, second = 2
+It is Fracture: first = 8, second = 9
+
+This pair is Fractured with Polar
+It is Fracture: first = 3, second = 2
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Complex with Complex
+It is Complex: first = 5.44, second = 7.167
+It is Complex: first = 5.44, second = 7.167
+
+This pair is Complex with Fractured
+It is Complex: first = 5.44, second = 7.167
+It is Fracture: first = 8, second = 9
+
+This pair is Complex with Polar
+It is Complex: first = 5.44, second = 7.167
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Fractured with Fractured
+It is Fracture: first = 8, second = 9
+It is Fracture: first = 8, second = 9
+
+This pair is Fractured with Polar
+It is Fracture: first = 8, second = 9
+It is Polar: angle = 1.3123, distance = 22
+
+This pair is Polar with Polar
+It is Polar: angle = 1.3123, distance = 22
+It is Polar: angle = 1.3123, distance = 22
+
+End Multimethod out
+Empty container: 
+List contents 0 elements.
